@@ -1,6 +1,6 @@
 # CS1203- Data Structures
 
-Welcome, This repository containns code submittions for CS-1203 offered in Monsoon 2022 by Prof Debayan Gupta
+Welcome, This repository contains code submittions for CS-1203 offered in Monsoon 2022 by Prof Debayan Gupta
 
 The files are serialized as per the submission requirements
 
